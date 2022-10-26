@@ -1,1 +1,2 @@
-# SliderApp2# SliderApp
+### SliderApp Tutorial
+Author: Xamidullayev Ammoriddin
